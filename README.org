@@ -1,0 +1,10 @@
+* freebsd-sysctl
+
+FreeBSD's sysctl interface to common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shamazmazum/freebsd-sysctl.git   |
+| commit  | 881cfb2  |
+| systems | freebsd-sysctl |
+|---------+-------------------------------------------|
+
